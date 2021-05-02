@@ -1,0 +1,26 @@
+# Dependencies
+markdown: kramdown
+highlighter: pygments
+
+# Permalinks
+permalink: pretty
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+# Setup
+title: Annika
+tagline: "Aus dem Leben eines Personalwesens"
+description: ""
+url: https://annika-haensch.de
+baseurl: /
+
+author:
+  name: "Annika Hänsch"
+
+# Custom vars
+version: 2.1.0
+
+github:
+  repo: https://github.com/annikahaensch/annikahaensch.github.io
